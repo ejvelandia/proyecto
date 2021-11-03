@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ejvelandia/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ejvelandia/static/js/main.d69d620f.chunk.js",
+    "main.js.map": "/ejvelandia/static/js/main.d69d620f.chunk.js.map",
+    "runtime-main.js": "/ejvelandia/static/js/runtime-main.076b13bd.js",
+    "runtime-main.js.map": "/ejvelandia/static/js/runtime-main.076b13bd.js.map",
+    "static/js/2.d391f75b.chunk.js": "/ejvelandia/static/js/2.d391f75b.chunk.js",
+    "static/js/2.d391f75b.chunk.js.map": "/ejvelandia/static/js/2.d391f75b.chunk.js.map",
+    "static/js/3.809e9c2b.chunk.js": "/ejvelandia/static/js/3.809e9c2b.chunk.js",
+    "static/js/3.809e9c2b.chunk.js.map": "/ejvelandia/static/js/3.809e9c2b.chunk.js.map",
+    "index.html": "/ejvelandia/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ejvelandia/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d391f75b.chunk.js.LICENSE.txt": "/ejvelandia/static/js/2.d391f75b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ejvelandia/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.076b13bd.js",
+    "static/js/2.d391f75b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d69d620f.chunk.js"
+  ]
+}
